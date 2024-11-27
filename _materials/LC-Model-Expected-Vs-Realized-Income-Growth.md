@@ -1,0 +1,147 @@
+---
+abstract: This notebook examines the relationship between expected and actual income
+  growth in a model with transitory and permanent shocks
+authors:
+- family-names: Carroll
+  given-names: Christopher D.
+  orcid: https://orcid.org/0000-0003-3732-9312
+dashboards: null
+github_repo_url: https://github.com/econ-ark/DemARK
+name: LC-Model-Expected-Vs-Realized-Income-Growth
+notebooks:
+- notebooks/LC-Model-Expected-Vs-Realized-Income-Growth.ipynb
+redirect_from:
+- lc-model-expected-vs-realized-income-growth
+- lc-model-expected-vs-realized-income-Growth
+- lc-model-expected-vs-realized-Income-growth
+- lc-model-expected-vs-realized-Income-Growth
+- lc-model-expected-vs-Realized-income-growth
+- lc-model-expected-vs-Realized-income-Growth
+- lc-model-expected-vs-Realized-Income-growth
+- lc-model-expected-vs-Realized-Income-Growth
+- lc-model-expected-Vs-realized-income-growth
+- lc-model-expected-Vs-realized-income-Growth
+- lc-model-expected-Vs-realized-Income-growth
+- lc-model-expected-Vs-realized-Income-Growth
+- lc-model-expected-Vs-Realized-income-growth
+- lc-model-expected-Vs-Realized-income-Growth
+- lc-model-expected-Vs-Realized-Income-growth
+- lc-model-expected-Vs-Realized-Income-Growth
+- lc-model-Expected-vs-realized-income-growth
+- lc-model-Expected-vs-realized-income-Growth
+- lc-model-Expected-vs-realized-Income-growth
+- lc-model-Expected-vs-realized-Income-Growth
+- lc-model-Expected-vs-Realized-income-growth
+- lc-model-Expected-vs-Realized-income-Growth
+- lc-model-Expected-vs-Realized-Income-growth
+- lc-model-Expected-vs-Realized-Income-Growth
+- lc-model-Expected-Vs-realized-income-growth
+- lc-model-Expected-Vs-realized-income-Growth
+- lc-model-Expected-Vs-realized-Income-growth
+- lc-model-Expected-Vs-realized-Income-Growth
+- lc-model-Expected-Vs-Realized-income-growth
+- lc-model-Expected-Vs-Realized-income-Growth
+- lc-model-Expected-Vs-Realized-Income-growth
+- lc-model-Expected-Vs-Realized-Income-Growth
+- lc-Model-expected-vs-realized-income-growth
+- lc-Model-expected-vs-realized-income-Growth
+- lc-Model-expected-vs-realized-Income-growth
+- lc-Model-expected-vs-realized-Income-Growth
+- lc-Model-expected-vs-Realized-income-growth
+- lc-Model-expected-vs-Realized-income-Growth
+- lc-Model-expected-vs-Realized-Income-growth
+- lc-Model-expected-vs-Realized-Income-Growth
+- lc-Model-expected-Vs-realized-income-growth
+- lc-Model-expected-Vs-realized-income-Growth
+- lc-Model-expected-Vs-realized-Income-growth
+- lc-Model-expected-Vs-realized-Income-Growth
+- lc-Model-expected-Vs-Realized-income-growth
+- lc-Model-expected-Vs-Realized-income-Growth
+- lc-Model-expected-Vs-Realized-Income-growth
+- lc-Model-expected-Vs-Realized-Income-Growth
+- lc-Model-Expected-vs-realized-income-growth
+- lc-Model-Expected-vs-realized-income-Growth
+- lc-Model-Expected-vs-realized-Income-growth
+- lc-Model-Expected-vs-realized-Income-Growth
+- lc-Model-Expected-vs-Realized-income-growth
+- lc-Model-Expected-vs-Realized-income-Growth
+- lc-Model-Expected-vs-Realized-Income-growth
+- lc-Model-Expected-vs-Realized-Income-Growth
+- lc-Model-Expected-Vs-realized-income-growth
+- lc-Model-Expected-Vs-realized-income-Growth
+- lc-Model-Expected-Vs-realized-Income-growth
+- lc-Model-Expected-Vs-realized-Income-Growth
+- lc-Model-Expected-Vs-Realized-income-growth
+- lc-Model-Expected-Vs-Realized-income-Growth
+- lc-Model-Expected-Vs-Realized-Income-growth
+- lc-Model-Expected-Vs-Realized-Income-Growth
+- LC-model-expected-vs-realized-income-growth
+- LC-model-expected-vs-realized-income-Growth
+- LC-model-expected-vs-realized-Income-growth
+- LC-model-expected-vs-realized-Income-Growth
+- LC-model-expected-vs-Realized-income-growth
+- LC-model-expected-vs-Realized-income-Growth
+- LC-model-expected-vs-Realized-Income-growth
+- LC-model-expected-vs-Realized-Income-Growth
+- LC-model-expected-Vs-realized-income-growth
+- LC-model-expected-Vs-realized-income-Growth
+- LC-model-expected-Vs-realized-Income-growth
+- LC-model-expected-Vs-realized-Income-Growth
+- LC-model-expected-Vs-Realized-income-growth
+- LC-model-expected-Vs-Realized-income-Growth
+- LC-model-expected-Vs-Realized-Income-growth
+- LC-model-expected-Vs-Realized-Income-Growth
+- LC-model-Expected-vs-realized-income-growth
+- LC-model-Expected-vs-realized-income-Growth
+- LC-model-Expected-vs-realized-Income-growth
+- LC-model-Expected-vs-realized-Income-Growth
+- LC-model-Expected-vs-Realized-income-growth
+- LC-model-Expected-vs-Realized-income-Growth
+- LC-model-Expected-vs-Realized-Income-growth
+- LC-model-Expected-vs-Realized-Income-Growth
+- LC-model-Expected-Vs-realized-income-growth
+- LC-model-Expected-Vs-realized-income-Growth
+- LC-model-Expected-Vs-realized-Income-growth
+- LC-model-Expected-Vs-realized-Income-Growth
+- LC-model-Expected-Vs-Realized-income-growth
+- LC-model-Expected-Vs-Realized-income-Growth
+- LC-model-Expected-Vs-Realized-Income-growth
+- LC-model-Expected-Vs-Realized-Income-Growth
+- LC-Model-expected-vs-realized-income-growth
+- LC-Model-expected-vs-realized-income-Growth
+- LC-Model-expected-vs-realized-Income-growth
+- LC-Model-expected-vs-realized-Income-Growth
+- LC-Model-expected-vs-Realized-income-growth
+- LC-Model-expected-vs-Realized-income-Growth
+- LC-Model-expected-vs-Realized-Income-growth
+- LC-Model-expected-vs-Realized-Income-Growth
+- LC-Model-expected-Vs-realized-income-growth
+- LC-Model-expected-Vs-realized-income-Growth
+- LC-Model-expected-Vs-realized-Income-growth
+- LC-Model-expected-Vs-realized-Income-Growth
+- LC-Model-expected-Vs-Realized-income-growth
+- LC-Model-expected-Vs-Realized-income-Growth
+- LC-Model-expected-Vs-Realized-Income-growth
+- LC-Model-expected-Vs-Realized-Income-Growth
+- LC-Model-Expected-vs-realized-income-growth
+- LC-Model-Expected-vs-realized-income-Growth
+- LC-Model-Expected-vs-realized-Income-growth
+- LC-Model-Expected-vs-realized-Income-Growth
+- LC-Model-Expected-vs-Realized-income-growth
+- LC-Model-Expected-vs-Realized-income-Growth
+- LC-Model-Expected-vs-Realized-Income-growth
+- LC-Model-Expected-vs-Realized-Income-Growth
+- LC-Model-Expected-Vs-realized-income-growth
+- LC-Model-Expected-Vs-realized-income-Growth
+- LC-Model-Expected-Vs-realized-Income-growth
+- LC-Model-Expected-Vs-realized-Income-Growth
+- LC-Model-Expected-Vs-Realized-income-growth
+- LC-Model-Expected-Vs-Realized-income-Growth
+- LC-Model-Expected-Vs-Realized-Income-growth
+tags:
+- DemARK
+- Demonstration
+- Notebook
+---
+
+Expected Versus Realized Income Growth in a Life Cycle Model with transitory and permanent shocks to income
